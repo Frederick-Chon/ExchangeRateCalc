@@ -5,7 +5,7 @@ ExchangeRate-API's free API to display exchange rates on the DOM. Includes 2 cur
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/ExchangeRateCalc/)
 
 ## Built Using
 
